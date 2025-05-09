@@ -69,7 +69,7 @@ Columns:
     - 1: scheduled tribe
     - 2: scheduled caste
     - 3: other backward class
-    - 4: others
+    - 9: others
 - land_possessed
     - 99: 0.00 hectare
     - 1: (0.00, 0.005) hectare
