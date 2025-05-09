@@ -247,7 +247,7 @@ Columns:
 - nsc: number of first stage units surveyed within a stratum x substratum for each state x sector
 - household_id: household identity code
 - individual_id: individual identity code
-- activity_code: activity code as per International Classification of Activities for Time Use Statistics 2016
+- activity_code: activity code as per International Classification of Activities for Time Use Statistics 2016 (refer to Appendix C of the ITUS 2024 report)
 - time_from: activity start time
 - time_to: activity end time
 - location: location where the activity was performed
